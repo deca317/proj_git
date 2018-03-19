@@ -1,0 +1,2 @@
+class ProblemSoler
+end
